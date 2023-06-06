@@ -1,1 +1,1 @@
-# mySql.github.io
+# MySQL Project
